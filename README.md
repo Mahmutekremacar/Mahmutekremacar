@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artficial Intelligence
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on every online platform 
-- 📫 How to reach me mahmutekremacar1@gmail.com
+- 📫 How to reach me mahmutekremacar@gmail.com
 
 <!---
 Mahmutekremacar/Mahmutekremacar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
