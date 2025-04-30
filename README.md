@@ -16,7 +16,7 @@
 I am a software developer who focuses on creating beautiful and functional user experiences.
 
 🇹🇷 I am Turkish.  
-📧 How to reach me: [mahmutekremacar@example.com](mailto:mahmutekremacar@example.com)
+📧 How to reach me: [mahmutekremacar@example.com](mailto:mahmutekremacar@gmail.com)
 
 ---
 
