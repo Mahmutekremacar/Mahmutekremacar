@@ -1,7 +1,9 @@
 # Hi there! 👋 I'm Mahmut Ekrem Acar
 
 [![Website](https://img.shields.io/badge/www.ekremacar.website-2ea44f?style=for-the-badge)](https://ekremacar.website))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/mahmut-ekrem-acar)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01d07137a9b7ff1fcc?viewMode=1)
+
 
 
 > Profile views  
