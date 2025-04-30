@@ -11,12 +11,18 @@
 
 ---
 
-## 🧑‍💻 About Me:
+## 🧑‍💻 About Me
+Hi! I'm Mahmut Ekrem Acar — a passionate developer with a strong focus on automation, AI, and web technologies.
+I'm currently studying Information Security at THWS Würzburg, where I combine academic knowledge with hands-on projects.
 
-I am a software developer who focuses on creating beautiful and functional user experiences.
+🤖 I build bot automations to streamline tasks and improve productivity.
 
-🇹🇷 I am Turkish.  
-📧 How to reach me: [mahmutekremacar@example.com](mailto:mahmutekremacar@gmail.com)
+🧠 I develop custom AI models tailored to specific needs and use cases.
+
+🌐 I design and develop modern websites with clean, user-friendly interfaces.
+
+I'm always exploring new technologies and pushing boundaries to create smart, secure, and scalable solutions.
+
 
 ---
 
