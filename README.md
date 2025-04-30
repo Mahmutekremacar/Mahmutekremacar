@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Mahmut Ekrem Acar
 
-[![Website](https://img.shields.io/badge/www.mahmutekremacar.dev-2ea44f?style=for-the-badge)](https://mahmutekremacar.dev)
+[![Website](https://img.shields.io/badge/www.mahmutekremacar.dev-2ea44f?style=for-the-badge)](https://ekremacar.website))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube)](https://youtube.com)
+
 
 > Profile views  
 ![Visitor Count](https://komarev.com/ghpvc/?username=Mahmutekremacar&color=blue)
