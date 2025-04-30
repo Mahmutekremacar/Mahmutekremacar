@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Mahmut Ekrem Acar
 
 [![Hashnode](https://img.shields.io/badge/www.ekremacar.website-2962FF?logo=hashnode&logoColor=white)](https://ekremacar.website)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue-2962FF?logo=linkedin)](www.linkedin.com/in/mahmut-ekrem-acar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue-2962FF?logo=linkedin)](https://www.linkedin.com/in/mahmut-ekrem-acar)
 [![Upwork](https://img.shields.io/badge/Upwork-6FDA44?logo=upwork&logoColor=fff)](https://www.upwork.com/freelancers/~01d07137a9b7ff1fcc?viewMode=1)
 
 
